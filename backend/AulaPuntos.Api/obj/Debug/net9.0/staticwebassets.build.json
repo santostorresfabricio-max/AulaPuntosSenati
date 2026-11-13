@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0HLjdbw8Km6npTelLzFErEsy9XiGRR0bHHryLaihoY8=",
+  "Source": "AulaPuntos.Api",
+  "BasePath": "_content/AulaPuntos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
